@@ -6,14 +6,14 @@ android autoCircleScrollText
 调用方法：
 
 
-  <com.xxx.view.autoCircleScrollText
-    android:id="@+id/circle_rec"
-    android:layout_height="wrap_content"
-    android:layout_width="550px"
-    android:layout_marginLeft="210px"
-    android:layout_marginTop="200px">
-  </com.xxx.view.autoCircleScrollText>
+  <com.xxx.view.autoCircleScrollText <br> 
+    android:id="@+id/circle_rec"<br> 
+    android:layout_height="wrap_content"<br> 
+    android:layout_width="550px"<br> 
+    android:layout_marginLeft="210px"<br> 
+    android:layout_marginTop="200px"><br> 
+  </com.xxx.view.autoCircleScrollText><br> 
 
- circle_rec = (autoCircleScrollText)findViewById(R.id.circle_rec);
- //输入参数，内圈滚动文字，外圈滚动文字
- circle_rec.setText(out_text,inner_text);
+ circle_rec = (autoCircleScrollText)findViewById(R.id.circle_rec);<br> 
+ //输入参数，内圈滚动文字，外圈滚动文字<br> 
+ circle_rec.setText(out_text,inner_text);<br> 
