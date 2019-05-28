@@ -1,0 +1,2 @@
+# autoCircleScrollText
+android autoCircleScrollText
