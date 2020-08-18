@@ -1,9 +1,9 @@
 # autoCircleScrollText
-android autoCircleScrollText
+### android autoCircleScrollText
 
-安卓实现文字圆形滚动自定义控件，支持顺时针和逆时针滚动，该控件只支持1080*1920像素，未进行其它分辨率的适配
+## 安卓实现文字圆形滚动自定义控件，支持顺时针和逆时针滚动，该控件只支持1080*1920像素，未进行其它分辨率的适配
 
-调用方法：
+## 调用方法：
 
 
   <com.xxx.view.autoCircleScrollText <br> 
