@@ -6,6 +6,7 @@
 ## 调用方法：
 
 
+```
 > <com.xxx.view.autoCircleScrollText 
 >>  android:id="@+id/circle_rec"
 >>  android:layout_height="wrap_content" 
@@ -17,3 +18,4 @@
 > circle_rec = (autoCircleScrollText)findViewById(R.id.circle_rec);
 > //输入参数，内圈滚动文字，外圈滚动文字
 > circle_rec.setText(out_text,inner_text);
+```
